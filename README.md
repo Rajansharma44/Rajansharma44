@@ -19,6 +19,10 @@
 ![Rajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajansharma44&theme=dark&show_icons=true)
 
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Rajansharma44&theme=dark)](https://git.io/streak-stats)
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
