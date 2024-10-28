@@ -20,7 +20,9 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
+  <img src="https://streak-stats.demolab.com?user=Rajansharma44&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rajansharma44&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
